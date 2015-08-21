@@ -1,4 +1,3 @@
-# node-mssql
 
 **A temporary fork of node-mssql,**
 This version is locked in at tedious version 1.11.4
