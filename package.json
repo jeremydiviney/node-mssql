@@ -3,7 +3,7 @@
 		"name": "Patrik Simek",
 		"url": "https://patriksimek.cz"
 	},
-	"name": "mssql",
+	"name": "mssql-tedious-1-11-4",
 	"description": "An easy-to-use MSSQL database connector for Node.js.",
 	"keywords": [
 		"database",
@@ -21,11 +21,11 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/patriksimek/node-mssql"
+		"url": "https://github.com/jeremydiviney/node-mssql"
 	},
 	"license": "MIT",
 	"dependencies": {
-		"tedious": "~1.12.2",
+		"tedious": "~1.11.4",
 		"generic-pool": "^2.2.0",
 		"promise": "^7.0.1"
 	},
